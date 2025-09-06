@@ -44,3 +44,6 @@ El sistema **NO** sustituye al médico, pero facilita el autocontrol y genera re
 **Base de datos:** MySQL
 
 ### Diagrama de flujo superficial y basico
+
+![Diagrama de flujo](img/diagrama_flujo_basico_inicial.png)
+
