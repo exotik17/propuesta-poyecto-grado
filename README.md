@@ -47,3 +47,4 @@ El sistema **NO** sustituye al médico, pero facilita el autocontrol y genera re
 
 ![Diagrama de flujo](img/diagrama_flujo_basico_inicial.png)
 
+![Diagrama de flujo](/img/Diagrama_de_ishikawa.png)
