@@ -262,8 +262,6 @@ Como usuario, quiero cerrar sesión para proteger mis datos al finalizar mi trab
 **Prioridad:** Alta  
 **Estimación:** 2  
 
-
-# Meditrack
 ## Validacion y verificacion con casos de uso
 
 ## **Registrar paciente**
